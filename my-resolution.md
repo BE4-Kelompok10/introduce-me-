@@ -7,7 +7,7 @@ Diajarin dengan handon dan dikasih lab untuk mencoba suatu cluster (bukan dengan
 ### Microservice
 Membuat aplikasi Cloud yang modern
 
-#Career Plan
+# Career Plan
 ## Adimas Fachri R
 ### DevOps Engineer
 Automate CI/CD more efficient
